@@ -4,5 +4,6 @@ public class MasterGit {
     public static void main(String[] args) {
         System.out.println("1");
         System.out.println("master自己修改master的东西");
+        System.out.println("分开");
     }
 }
